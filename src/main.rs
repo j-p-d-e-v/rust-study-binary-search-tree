@@ -1,5 +1,4 @@
 use std::mem;
-use std::cell::RefCell;
 
 type Tree = Option<Box<Node>>;
 
